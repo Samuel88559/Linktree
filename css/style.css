@@ -6,7 +6,7 @@ body{
 }
 
 .avatar img{
-    width: 100px;
+    width: 115px;
     border-radius: 100%;
 }
 
@@ -97,4 +97,5 @@ body{
     flex-direction: column;
     justify-content: center;
     height: 100vh;
+
 }
